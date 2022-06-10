@@ -1,23 +1,23 @@
 # Anton Leshkovich 
 ## Contacts
--------------------------
-*Location: Minsk, Belarus
-*Phone: +375333933833
-*Email: antonleshkovich@mail.ru
-*GitHub: AntonLeshkovich
--------------------------
+---
+* Location: Minsk, Belarus
+* Phone: +375333933833
+* Email: antonleshkovich@mail.ru
+* GitHub: AntonLeshkovich
+---
 ### About me
--------------------------
+---
 I am responsible, attentive to small details, hardworking and creative guy. I always strive for self-improvement and learning something new.
--------------------------
+---
 ### Skills
--------------------------
-*Git 
-*HTMl
-*CSS
--------------------------
+---
+* Git 
+* HTMl
+* CSS
+---
 ### Code Example
--------------------------
+---
 ```
 function sumAll(...all) {
     let result = 0
@@ -30,16 +30,16 @@ function sumAll(...all) {
 const res = sumAll(all = 3, 7, 12, 17)
 console.log(res)
 ```
---------------------------
+---
 ### Experience
---------------------------
+---
 I work as an engineer in the company "Aluterm"
---------------------------
+---
 ### Education
---------------------------
+---
 University: Belarusian National Technical University, MTF
---------------------------
+---
 ### Languages
---------------------------
-*Belarussian (fluent)
-*English (intermediate)
+---
+* Belarussian (fluent)
+* English (intermediate)
