@@ -1,2 +1,2 @@
-# Anton Leshkovich  
+# Anton  
 ## Contacts
