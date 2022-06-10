@@ -6,17 +6,17 @@
 * Email: antonleshkovich@mail.ru
 * GitHub: AntonLeshkovich
 ---
-### About me
+## About me
 ---
 *I am responsible, attentive to small details, hardworking and creative guy. I always strive for self-improvement and learning something new.*
 ---
-### Skills
+## Skills
 ---
 * Git 
 * HTMl
 * CSS
 ---
-### Code Example
+## Code Example
 ---
 ```
 function sumAll(...all) {
@@ -31,15 +31,15 @@ const res = sumAll(all = 3, 7, 12, 17)
 console.log(res)
 ```
 ---
-### Experience
+## Experience
 ---
 *I work as an engineer in the company "Aluterm"*
 ---
-### Education
+## Education
 ---
 *University: Belarusian National Technical University, MTF*
 ---
-### Languages
+## Languages
 ---
 * Belarussian (fluent)
 * English (intermediate)
