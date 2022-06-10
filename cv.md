@@ -6,11 +6,11 @@
 * Email: antonleshkovich@mail.ru
 * GitHub: AntonLeshkovich
 ---
-## About me
+### About me
 ---
-*I am responsible, attentive to small details, hardworking and creative guy. I always strive for self-improvement and learning something new.*
+###### I am responsible, attentive to small details, hardworking and creative guy. I always strive for self-improvement and learning something new.
 ---
-## Skills
+## Skills 
 ---
 * Git 
 * HTMl
@@ -33,11 +33,11 @@ console.log(res)
 ---
 ## Experience
 ---
-*I work as an engineer in the company "Aluterm"*
+###### I work as an engineer in the company "Aluterm"
 ---
 ## Education
 ---
-*University: Belarusian National Technical University, MTF*
+###### University: Belarusian National Technical University, MTF
 ---
 ## Languages
 ---
