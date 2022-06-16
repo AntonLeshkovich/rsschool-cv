@@ -108,9 +108,10 @@ html {
 }
 
 .rss {
-    width: 150px;
-    height: 150px;
-    background-image: url("./assets/img/avatar.jpg");
+    width: 70px;
+    height: 100px;
     background-size: contain;
     background-repeat: no-repeat;
+    
 }
+
